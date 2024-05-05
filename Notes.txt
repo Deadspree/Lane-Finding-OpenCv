@@ -1,0 +1,2 @@
+Yolov8 for object detection
+Deep Sort for object tracking
