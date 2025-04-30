@@ -1,9 +1,14 @@
-Lane_finding using opencv
-Knowledge acquired
+## Knowledge acquired:
+
 -Camera Calibration 
+
 -Perspective Transform
+
 -Binary Thresholding
+
 -Lane Detection Using histogram
 
 
-Results is in the result_output_lane.mp4
+## This project is implemented in Python and uses OpenCV image processing library
+
+
